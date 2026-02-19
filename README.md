@@ -24,7 +24,7 @@ Our mission was to create a digital bridge for people with neurodiverse needs. B
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/lucascirille/RutinaDelDia.git](https://github.com/lucascirille/RutinaDelDia.git)
+   git clone https://github.com/lucascirille/RutinaDelDia.git
    cd RutinaDelDia
 2. **Install dependencies**
    ```bash
