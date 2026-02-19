@@ -6,7 +6,7 @@ A visual routine management tool designed to provide structure and predictabilit
 
 - `React`
 - `TypeScript`
-- `.NET`
+- `.NET` (Famework 8.0)
 - `Figma`
 
 ## 🚀 Features
