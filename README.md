@@ -4,9 +4,8 @@ A visual routine management tool designed to provide structure and predictabilit
 
 ## ✨ Technologies
 
-- `React` (or `React Native`)
+- `React`
 - `TypeScript`
-- `Tailwind CSS`
 - `Lucide React` (for iconography)
 - `Figma` (for UI/UX design)
 
