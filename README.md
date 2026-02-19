@@ -27,9 +27,20 @@ Our mission was to create a digital bridge for people with neurodiverse needs. B
    git clone https://github.com/lucascirille/RutinaDelDia.git
    cd RutinaDelDia
 2. **Install dependencies**
+   from the client:
    ```bash
+   cd rutinadeldiacliente/
    npm install
-3. **Launch the development server**
+   ```
+   from the server:
+   ```bash
+   cd rutinadeldiaservidor/rutinadeldiaservidor/rutinadeldiaservidor/
+   dotnet restore
+   dotnet tool install --global dotnet-ef
+   dotnet ef database update
+   dotnet run
+   ```
+4. **Launch the development server**
    ```bash
    npm run dev
 
