@@ -1,13 +1,13 @@
 # 📅 Rutina del Día
 
-A visual routine management tool designed to provide structure and predictability. Originally conceived as a mobile app for individuals with ASD (TEA), this project aims to reduce anxiety through clear, visual scheduling.
+A visual routine management tool designed to provide structure and predictability. This project aims to reduce anxiety through clear, visual scheduling.
 
 ## ✨ Technologies
 
 - `React`
 - `TypeScript`
-- `Lucide React` (for iconography)
-- `Figma` (for UI/UX design)
+- `.NET`
+- `Figma`
 
 ## 🚀 Features
 
