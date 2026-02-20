@@ -15,11 +15,15 @@ A visual routine management tool designed to provide structure and predictabilit
 
 ## 🚀 Features
 
+- **Isolated Accounts**: Children cannot change their role because it requires a code known only by the guardian.
+- **Role-Based Interfaces**: The child interface focuses on completing routines, while the guardian interface is designed for managing them.
+- **AI-Generated Routines**: You can create a routine simply by asking.
+- **Telegram Notifications**: Both the guardian and the person with neurodiverse needs receive notifications. The latter receives a reminder for an active routine, while the guardian is notified of a cancelled routine. These are sent via Telegram.
 - **Visual Timeline**: A simplified view of daily activities to help users navigate their day.
+- **Customized Profiles**: The Users created can customize options for a unique experience
 - **High-Contrast Design**: Optimized for readability and focus.
 - **Task Management**: Easy-to-follow steps for daily habits.
-- **Mobile-First Soul**: Preserves the essence of the original mobile design within a responsive interface.
-
+  
 ## 📍 The Process
 
 Our mission was to create a digital bridge for people with neurodiverse needs. Built under Inclusive Design principles, this app simplifies daily routines for individuals with ASD. By adhering standards like**WCAG guidelines**, we ensured the UI is intuitive and distraction-free. The platform connects users with their guardians in real-time, fostering independence for the user and peace of mind for the caregiver.
