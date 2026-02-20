@@ -3,10 +3,14 @@
 A visual routine management tool designed to provide structure and predictability. This project aims to reduce anxiety through clear, visual scheduling.
 
 ## ✨ Technologies
-
+### Cient
 - `React`
 - `TypeScript`
+### Server
 - `.NET` (Famework 8.0)
+- `Entity Framework Core` (ORM)
+- `Postgres` (DBMS)
+### Tool for design
 - `Figma`
 
 ## 🚀 Features
